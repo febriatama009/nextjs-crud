@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Tas Carrier",
+      "price": 888
+    },
+    {
+      "id": 3,
+      "title": "Pole Mendaki - Update Stock",
+      "price": 7779
+    },
+    {
+      "title": "Eiger Carrier",
+      "price": "12345",
+      "id": 4
+    }
+  ]
+}
